@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BronwynHarris
-- 👀 I’m interested in ... front end development, cyber security, and cookies (literal ones :D)
-- 🌱 I’m currently learning ...Typescript
+- 👀 I’m interested in ... UI/UX, DeFi, cookies (literal ones :D), and the Oxford comma
+- 🌱 I’m currently learning ...Typescript 
 - 💞️ I’m looking to collaborate on ...almost anything! reach out :)
 - 📫 How to reach me ... bronwyneharris@gmail.com
 
